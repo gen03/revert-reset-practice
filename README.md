@@ -1,2 +1,4 @@
 # revert-reset-practice
-Git練習用 revertとreset
+
+Git 練習用 revert と reset
+間違えて変更
